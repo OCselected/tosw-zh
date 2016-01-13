@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE appendix PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+<appendix>
+	<title>修订历史</title>
+	<simpara>
+		<revhistory>
+			<revision>
+				<revnumber>0.2-1.1</revnumber>
+				<date>Wed Jan 13 2016</date>
+				<author>
+					<firstname>Li</firstname>
+					<surname>Jiansheng</surname>
+					<email>lijiansheng@ocselected.org</email>
+				</author>
+				<revdescription>
+					<simplelist>
+						<member>与 XML 源 0.2-1 版本同步的翻译文件</member>
+					</simplelist>
+				</revdescription>
+			</revision>
+		</revhistory>
+	</simpara>
+</appendix>
+

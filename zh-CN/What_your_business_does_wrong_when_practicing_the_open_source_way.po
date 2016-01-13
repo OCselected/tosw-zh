@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 0\n"
+"POT-Creation-Date: 2016-01-14 00:04+0800\n"
+"PO-Revision-Date: 2016-01-14 00:04+0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: None\n"
+"Language: en-US \n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Publican v4.3.2\n"
+
+msgid "What your business does wrong when practicing the open source way"
+msgstr ""
+
+msgid "If you belong to an organization, such as a business, you may apply the open source way to how you do business. How you plan long-term strategy and how you execute short-term tactics. This is one way that the open source way is as set of principles applied to differing disciplines."
+msgstr ""
+
+msgid "For more of an overview on applying the open source way to business practices, read <xref linkend=\"The_Open_Source_Way-Business_the_open_source_way\" />."
+msgstr ""
+
+msgid "In this chapter, various common mistakes are discussed. Red Hat shares some examples, do you have any others from your team or other organizations that apply?"
+msgstr ""
+
+msgid "Burns projects and losses momentum in technology leadership by ignoring community fundamentals"
+msgstr ""
+
+msgid "One of the challenges of doing business the open source way is the balance of experience and expectations in your employees and shareholders. Accurately practicing the principles of open source requires diligence and patience. Sometimes other instincts and requirements cross the pathway of essential community principles."
+msgstr ""
+
+msgid "Putting your community principles first in action and in risk analysis is essential to accurate practice of the open source way."
+msgstr ""
+
+msgid "Ironically, even the best organizations are not always the best at what they do. Sometimes we break every rule in <citetitle>The Open Source Way</citetitle>."
+msgstr ""
+
+msgid "<replaceable>Example needed</replaceable>"
+msgstr ""
+
+msgid "Breaks fundamental rules of community"
+msgstr ""
+
+msgid "In fact, every rule is being broken right now, somewhere inside of our favorite organizations."
+msgstr ""
+
+msgid "Somewhere project team members are designing in the hallway instead of on a mailing list."
+msgstr ""
+
+msgid "A team leader is wondering if they really need to go through the trouble of getting community input on their work."
+msgstr ""
+
+msgid "Someone in a sales organization is failing to show customers the value of being involved in the design and development of the software core to running the customer's business."
+msgstr ""
+
+msgid "For example, there is a common practice of having two mailing lists for open projects. One is an internal list that too often gets used for development discussions before bringing them in to the open. The other is the public discussion and development list."
+msgstr ""
+
+msgid "Similarly, when dealing with ISV partners, the partner team makes tools, content, and collaborates all on a back-channel."
+msgstr ""
+
+msgid "The problem is, community members either know or can feel there is work happening before conversations get to the public list."
+msgstr ""
+
+msgid "Fails to learn from mistakes"
+msgstr ""
+
+msgid "Our ability to institutionally learn from past mistakes can be hobbled. This is particularly challenging when the open source way is not ingrained in to all aspects of your business; this is rather common, keeping open source as a development methodology but otherwise running the business in a traditional fashion."
+msgstr ""
+
+msgid "<citetitle>The Open Source Way</citetitle> is one part of fixing this. We need roadmaps even when we think we know all the routes by heart."
+msgstr ""
+
+msgid "As with many of these \"does it right, does it wrong\" items, there is an irony at work here. You may have learned serious lessons from past mistakes, yet still see many of the same ones repeated continuously."
+msgstr ""
+
+msgid "You find this when the organization is not listening to the memory keepers, who attempt to speak up and remind that this has been tried before."
+msgstr ""
+
+msgid "For example, trying to solve problems with closed, proprietary software because of a desire to get something running quickly. Experience shows that, just as we try to teach our customers, over the medium to long term, that decision is going to cost more than engaging with an open solution from the start."
+msgstr ""
+
+msgid "Misses the opportunity to adopt and grow key or future open source technology for your own IT"
+msgstr ""
+
+msgid "Even open source businesses have a history that is riddled with decisions to use a piece of proprietary technology for internal or external purposes. In some cases there was no open source choice to adopt and the cost of starting from the beginning was considered prohibitive."
+msgstr ""
+
+msgid "There are, however, as many cases where the open source software could have been adopted and fixed up to the needed enterprise standard by using the open source methodology."
+msgstr ""
+
+msgid "Does not include community strategy in all new projects"
+msgstr ""
+
+msgid "Even a project that is only for internal focus and consumption can benefit from considering and including its community."
+msgstr ""
+
+msgid "In other words, we can adopt open source methodologies for everything from our internal communication to brand marketing."
+msgstr ""
+
+msgid "At the Google headquarters, there are brief articles posted on the bathroom walls, along with encouraging signs. The articles are short and technical, detailing how to use and test a particular piece of Google technology. The other signs and branding encourage Googlers to beta test their own software. This is sometimes called <firstterm><ulink url=\"http://en.wikipedia.org/wiki/Eat_one%27s_own_dog_food\">eating your own dog food</ulink></firstterm>, that is, using the products and methods yourself that you sell and encourage your customer communities to use."
+msgstr ""
+
+msgid "Separates community from business"
+msgstr ""
+
+msgid "Like many other companies, your business distinguishes clearly between the worlds of \"development\" where you support and work with communities, and \"business\", where you have adopted hierarchical controlled structures."
+msgstr ""
+
+msgid "This mirrors a traditional business approach, where interacting with communities members is analagous with customer service, a sub-branch without real power to change the rest of the business."
+msgstr ""
+
+msgid "Sometimes from a historical evolution, this separation is comprehensible. Unfortunately, we can't always explain these histories so they makes sense in the modern context where open community organizations act in a more integrated manner."
+msgstr ""
+
+msgid "A key community growth initiative that will benefit the bottom line is to make growing various types of communities (customers, sales, partners, etc.) a top-level strategic goal. Agree that you need to include community interaction as part of the feedback loop that improves your business and processes."
+msgstr ""
+
+msgid "Think of every way that \"customer\" and \"customer service\" have integrated with various parts of successful customer-focused businesses. Then substitute \"community\" and \"community enablement\"."
+msgstr ""
+
+msgid "There are examples out there, where companies successfully integrate community principles into their business and gain benefits from their customer and partner contributions as they do from development."
+msgstr ""
+
+msgid "A good exercise is the comparison of community integration on the web sites between <ulink url=\"http://www.redhat.com\" /> and <ulink url=\"http://www.jboss.com JBoss\" /> on one hand and <ulink url=\"http://www.oracle.com Oracle\" />, <ulink url=\"http://www.sap.com SAP\" />, <ulink url=\"http://www.novell.com Novell\" />, and <ulink url=\"http://www.ibm.com IBM\" /> on the other hand. You can see the strength of the stand-alone community, but in the former you don't see obvious community offered for customers and partners. In the larger, traditional, proprietary companies, they have put forth the face of having learned they need to be a leading member in the community of their customers and partners."
+msgstr ""
+
+msgid "A similar exercise can be done with smaller pure and mixed open source ISVs. The community is forefront and listening to/interacting with users is a key to their growth."
+msgstr ""
+
+msgid "Ironically, applying the open source way via community principles is sometimes more evident in companies that do not practice open source development. Twitter, for example, builds on open technologies, has a rapid and iterative approach to incorporating user ideas, and otherwise shows a high level of listening to and learning from end-users that is similar to how open source listens to end-users."
+msgstr ""
+

@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 0\n"
+"POT-Creation-Date: 2016-01-14 00:04+0800\n"
+"PO-Revision-Date: 2016-01-14 00:04+0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: None\n"
+"Language: en-US \n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Publican v4.3.2\n"
+
+msgid "The Open Source Way"
+msgstr ""
+
+msgid "Creating and nurturing communities of contributors"
+msgstr ""
+
+msgid "TOSW"
+msgstr ""
+
+msgid "This guide is for helping people to understand how to and how not to engage with community over projects such as software, content, marketing, art, infrastructure, standards, and so forth. It contains knowledge distilled from years of Red Hat experience."
+msgstr ""
+

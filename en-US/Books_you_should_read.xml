@@ -1,0 +1,141 @@
+<?xml version='1.0'?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+<chapter id="The_Open_Source_Way-Books_you_should_read">
+  <title>Books you should read</title>
+  <para>
+    Suggested books of various community experts.
+  </para>
+  <variablelist>
+    <title>Producing OSS</title>
+    <varlistentry>
+      <term>Author</term>
+      <listitem>
+	<para>Karl Fogel</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>Link</term>
+      <listitem>
+	<para>
+	  <ulink url="http://www.amazon.com/Producing-Open-Source-Software-Successful/dp/0596007590">http://www.amazon.com/Producing-Open-Source-Software-Successful/dp/0596007590</ulink>
+	</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>Website</term>
+      <listitem>
+	<para><ulink url="http://producingoss.com/">http://producingoss.com/</ulink></para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>ISBN</term>      
+      <listitem>
+	<para>ISBN-10: 0596007590 and ISBN-13: 978-0596007591</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+  <variablelist>
+    <title>The Starfish and the Spider</title>
+    <varlistentry>
+      <term>Authors</term>
+      <listitem>
+	<para>Ori Brafman and Rod A. Beckstrom</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>Link</term>
+      <listitem>
+	<para>
+	  <ulink url="http://www.amazon.com/Starfish-Spider-Unstoppable-Leaderless-Organizations/dp/1591841437">http://www.amazon.com/Starfish-Spider-Unstoppable-Leaderless-Organizations/dp/1591841437</ulink>
+	</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>Website</term>
+      <listitem>
+	<para><ulink url="http://www.starfishandspider.com/">http://www.starfishandspider.com/</ulink></para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>ISBN</term>      
+      <listitem>
+	<para>ISBN-10: 1591841836 and ISBN-13: 978-1591841838</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+  <variablelist>
+    <title>Groundswell</title>
+    <varlistentry>
+      <term>Authors</term>
+      <listitem>
+	<para>Josh Bernoff and Charlene Li</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>Website</term>
+      <listitem>
+	<para><ulink url="http://www.forrester.com/Groundswell">http://www.forrester.com/Groundswell</ulink></para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>ISBN</term>      
+      <listitem>
+	<para>ISBN-10: 1422125009 and ISBN-13: 978-1422125007</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+  <variablelist>
+    <title>Wikinomics</title>
+    <varlistentry>
+      <term>Authors</term>
+      <listitem>
+	<para>Don Tapscott and Anthony D. Williams</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>Website</term>
+      <listitem>
+	<para>
+	  <ulink url="http://www.wikinomics.com/book">http://www.wikinomics.com/book</ulink>
+	</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>ISBN</term>      
+      <listitem>
+	<para>
+	  ISBN-10: 184354637X and ISBN-13: 978-1843546375
+	</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+  <variablelist>
+    <title>Cultivating Communities of Practice</title>
+    <varlistentry>
+      <term>Authors</term>
+      <listitem>
+	<para>
+	  Etienne Wenger, Richard A. McDermott, William M. Snyder
+	</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>Link</term>
+      <listitem>
+	<para>
+	  <ulink url="http://www.amazon.com/Cultivating-Communities-Practice-Managing-Knowledge/dp/B000SEOINI/ref=dp_kinw_strp_1">http://www.amazon.com/Cultivating-Communities-Practice-Managing-Knowledge/dp/B000SEOINI/ref=dp_kinw_strp_1</ulink>
+	</para>
+      </listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>ASIN</term>      
+      <listitem>
+	<para>
+	  ASIN: B000SEOINI
+	</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+</chapter>

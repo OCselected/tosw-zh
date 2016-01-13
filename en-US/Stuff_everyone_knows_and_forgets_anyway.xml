@@ -1,0 +1,518 @@
+<?xml version='1.0'?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+<chapter id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway">
+  <title>Stuff everyone knows and forgets anyway</title>
+  <para>
+    Use this chapter to remind yourself and everyone else.
+  </para>
+  <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-Embrace_failure">
+    <title>Embrace failure</title>
+
+    <!-- Principle -->
+    <para>
+      Fail spectacularly, and don't forget to take notes.
+    </para>
+    <para>
+      There is a lot of crowd wisdom at work here.  It's basic
+      physics, too -- if you charge ahead and fall on your face, you
+      at least made headway.  Like feeling your way around in the
+      dark, each touch, bump, and stub of the toe teaches you more
+      about the environment.
+    </para>
+      <!-- Implementation -->
+    <para>
+      When you drive your processes and technology to the brink of
+      failure, repeatedly, you get very comfortable somewhere most
+      people don't even want to go.  You also get to set a new
+      standard for what is comfortable for your community, giving you
+      new room to expand even further.
+    </para>
+    <!-- Example -->
+    <para>
+      <replaceable>Example needed</replaceable>
+    </para>
+  </section>
+  <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-Communities_require_care_and_feeding_to_get_started_...">
+    <title>Communities require care and feeding to get started ...</title>
+    <!-- Principle -->
+    <para>
+      Imagine if you grow a garden and are very ambitious.  The first
+      year you overplant and are unwilling to thin out the seedlings.
+      You end up with overcrowded, unhealthy plants.
+    </para>
+    <!-- Implementation -->
+    <para>
+      <replaceable>Implementation needed</replaceable>
+    </para>
+    <para>
+      By giving good and regular care, your communities ...
+    </para>
+    <!-- Example -->
+    <para>
+      <replaceable>Example needed</replaceable>
+    </para>
+  </section>
+  <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-..._And_communities_need_to_be_left_to_grow_and_evolve">
+    <title>... And communities need to be left to grow and evolve</title>
+    <!-- Principle -->
+    <para>
+      <replaceable>Principle needed</replaceable>
+    </para>
+    <!-- Implementation -->
+    <para>
+      <replaceable>Implementation needed</replaceable>
+    </para>
+    <!-- Example -->
+    <para>
+      <replaceable>Example needed</replaceable>
+    </para>
+  </section>
+  <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-Remember_what_you_learned_in_Kindergarten">
+    <title>Remember what you learned in Kindergarten</title>
+    <!-- Principle -->
+    <itemizedlist>
+      <listitem><para>Play nice</para></listitem>
+      <listitem><para>Share</para></listitem>
+      <listitem><para>Don't run with scissors</para></listitem>
+    </itemizedlist>
+    <para>
+      Seriously, you would be surprised at how many of the most basic
+      rules are broken that our parents and teachers thought they
+      taught us many years ago.
+    </para>
+    <!-- Implementation -->
+    <para>
+      <replaceable>Implementation needed</replaceable>
+    </para>
+    <!-- Example -->
+    <para>
+      <replaceable>Example needed</replaceable>
+    </para>
+  </section>
+  <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-Take_extra_extra_extra_care_to_have_all_discussions_in_the_open">
+    <title>Take extra extra extra care to have all discussions in the open</title>
+    <!-- Principle -->
+    <para>
+      <replaceable>Principle needed</replaceable>
+    </para>
+    <!-- Implementation -->
+    <para>
+      <replaceable>Implementation needed</replaceable>
+    </para>
+    <!-- Example -->
+    <para>
+      <replaceable>Example needed</replaceable>
+    </para>
+    <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-Radically_visible_meetings_at_all_times">
+      <title>Radically visible meetings at all times</title>
+      <!-- Principle -->
+      <para>
+	Any private interactions, from the hallway to email/irc to
+	phone calls, are a risk to the project.  At the minimum, you
+	must be mindful of reporting back the results of direct
+	conversation.
+      </para>
+      <para>
+	However, this isn't really good enough.  A summary of a
+	meeting never shows the reasoned discussion, effectively
+	cutting the community out of the decision making process.
+      </para>
+      <!-- Implementation -->
+      <para>
+	<replaceable>Implementation needed</replaceable>
+      </para>
+      <para>
+	There is a reason mailing lists and open chat networks are the
+	baseline for all communication in successful open source
+	projects.
+      </para>
+      <!-- Example -->
+      <para>
+	<replaceable>Example needed</replaceable>
+      </para>
+    </section>
+    <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-No_decision_point_is_too_small_to_pre-announce_to_a_mailing_list">
+      <title>No decision point is too small to pre-announce to a mailing list</title>
+      <!-- Principle -->
+      <para>
+	While we can grow trust in the community about technical or
+	other decisions, there are common problem circumstances we can
+	avoid:
+      </para>
+      <itemizedlist>
+	<listitem><para>The corporate sponsor and staff are always
+	more suspect, so need to take extra care to share the decision
+	making process</para></listitem>
+	<listitem><para>We cannot guess what is important to
+	contributors, nor why.  Presuming they don't care about a
+	decision is a bad idea.</para></listitem>
+      </itemizedlist>
+      <!-- Implementation -->
+      <para>
+	<replaceable>Implementation needed</replaceable>
+      </para>
+      <para>
+	The method is to take all decisions to the open forums, until
+	people start complaining that a particular class of decisions
+	can happen in another way/place.  This is called, "Building
+	trust by proof through annoying transparency."
+      </para>
+      <!-- Example -->
+      <para>
+	<replaceable>Example needed</replaceable>
+      </para>
+    </section>
+    <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-How_to_let_a_mailing_list_run_itself">
+      <title>How to let a mailing list run itself</title>
+      <para>
+	A mailing list is the core of any active community that gets
+	things done.  It is the equivalent to having everyone in the
+	same office all the time.  The functionality has not been
+	duplicated, replicated, or replaced with any other technology
+	in more than twenty years. News service is arguably better,
+	but mailing lists are ubiquitous.
+      </para>
+      <para>	
+	It's not hard to run a mailing list, in fact the best ones
+	really run themselves.  In order to get it to that state:
+      </para>
+      <orderedlist>
+	<listitem><para>Everything must be discussed on the list.</para></listitem>
+	<listitem><para>If you break rule 1, you must make sure that
+	whatever the discussion was, the details and results are
+	published on the list</para>
+	<itemizedlist>
+	  <listitem><para>This happens often, so it is incumbent that
+	  decisions come back to the list from IRC, phone calls, f2f
+	  meetings</para></listitem>
+	</itemizedlist>
+	</listitem>
+      </orderedlist>
+    </section>
+  </section>
+  <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-Take_even_more_care_to_do_all_design_and_decisions_in_the_open">
+    <title>Take even more care to do all design and decisions in the
+    open</title>
+    <!-- Principle -->
+    <para>
+      <replaceable>Principle needed</replaceable>
+    </para>
+    <!-- Implementation -->
+    <para>
+      <replaceable>Implementation needed</replaceable>
+    </para>
+    <!-- Example -->
+    <para>
+      <replaceable>Example needed</replaceable>
+    </para>
+  </section>
+  <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-Use_version_control_for_your_content_as_well_as_code_-_everyone_watches_the_changes">
+  <title>Use version control for your content as well as code -
+  everyone watches the changes</title>
+  <!-- Principle -->
+  <para>
+    Being able to roll back work encourages people to be bold and
+    innovative.  One of the currencies of project work is simply
+    making a change to a codebase or a document as an explanation
+    itself.  Changes are self-evident in the commit itself.  This is
+    why all changes must be accompanied with a comment or summary that
+    explains the reasons behind the change.
+  </para>
+  <!-- Implementation -->
+  <para>
+    Equally important is that all project members watch these changes.
+    Responding to the changes on a mailing list, bug report, or wiki
+    discussion page keeps the discussion associated with the node of
+    origin.
+  </para>
+  <!-- Example -->
+  <para>
+    <replaceable>Example needed</replaceable>
+  </para>
+  <para>
+    For example, major design decisions need to ...
+  </para>
+  </section>
+  <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-Choose_open_tools_that_can_be_extended">
+    <title>Choose open tools that can be extended</title>
+    <!-- Principle -->
+    <para>
+      Don't choose tools just because your small team knows them the
+      best.  Be careful of choosing something because you are in a
+      hurry and need something quickly.
+    </para>
+    <para>
+      When it comes to tools, talk with trusted community leaders
+      about what you should use.  Even if you choose something out of
+      step with other community members, you will at least know why
+      you did and be prepared to mitigate risk.
+    </para>
+    <important>
+      <title>It is risky to choose closed tools ...</title>
+      <para>
+	It is risky to choose closed tools that a community cannot easily scale itself.
+      </para>
+    </important>
+    <!-- Implementation -->
+    <para>
+      <replaceable>Implementation needed</replaceable>
+    </para>
+    <!-- Example -->
+    <para>
+      <replaceable>Example needed</replaceable>
+    </para>
+    <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-Make_sure_everyone_has_an_equal_and_clear_method_for_access_to_write-commit_to_open_tools">
+      <title>Make sure everyone has an equal and clear method for access to write-commit to open tools</title>
+      <!-- Principle -->
+      <para>
+	<replaceable>Principle needed</replaceable>
+      </para>
+      <!-- Implementation -->
+      <para>
+	With version control under code and content, you can open
+	access to more people.  For example, don't require people to
+	go through a lengthy process or to "prove" themselves with X
+	number of patches.  Give people access to whatever they need
+	to make a difference, even if they don't use the access.
+      </para>
+      <!-- Example -->
+      <para>Wikipedia is a prime example here.  They use the power of the community size to police bad content changes, rather than limiting the community size behind rules of what it takes to write content changes.
+      </para>
+      <note>
+	<title>More people want to do good for your project ...</title>
+	<para>
+	  More people want to do good for your project than want to do
+	  bad.  Don't punish the do-gooders because of the potential
+	  evil someone might do.
+	</para>
+      </note>
+    </section>
+    <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-Tie_this_together_with_open_content">
+      <title>Tie this together with open content</title>
+      <!-- Principle -->
+      <para>
+	<replaceable>Principle needed</replaceable>
+      </para>
+      <para>
+	Don't forget to document code, processes, methods, reasons, etc.  
+      </para>
+      <!-- Implementation -->
+      <para>
+	<replaceable>Implementation needed</replaceable>
+      </para>
+      <!-- Example -->
+      <para>
+	<replaceable>Example needed</replaceable>
+      </para>
+    </section>
+  </section>
+  <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-Focus_on_healthy_and_open_community_interaction">
+    <title>Focus on healthy and open community interaction</title>
+    <!-- Principle -->
+    <para>
+      <replaceable>Principle needed</replaceable>
+    </para>
+    <!-- Implementation -->
+    <para>
+      <replaceable>Implementation needed</replaceable>
+    </para>
+    <!-- Example -->
+    <para>
+      <replaceable>Example needed</replaceable>
+    </para>
+    <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-Make_governance_as_clear_as_possible">
+      <title>Make governance as clear as possible</title>
+      <!-- Principle -->
+      <para>
+	<replaceable>Principle needed</replaceable>
+      </para>
+      <!-- Implementation -->
+      <para>
+	<replaceable>Implementation needed</replaceable>
+      </para>
+      <!-- Example -->
+      <para>
+	<replaceable>Example needed</replaceable>
+      </para>
+    </section>
+    <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-Use_your_lawyers_well_while_avoiding_too_much_legalese">
+      <title>Use your lawyers well while avoiding too much legalese</title>
+      <!-- Principle -->
+      <para>
+	<replaceable>Principle needed</replaceable>
+      </para>
+      <!-- Implementation -->
+      <para>
+	<replaceable>Implementation needed</replaceable>
+      </para>
+      <!-- Example -->
+      <para>
+	<replaceable>Example needed</replaceable>
+      </para>
+    </section>
+    <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-Do_not_let_poisonous_people_bog_down_the_community">
+      <title>Do not let poisonous people bog down the community</title>
+      <!-- Principle -->
+      <para>
+	<replaceable>Principle needed</replaceable>
+      </para>
+      <!-- Implementation -->
+      <para>
+	<replaceable>Implementation needed</replaceable>
+      </para>
+      <!-- Example -->
+      <para>
+	<replaceable>Example needed</replaceable>
+      </para>
+    </section>
+    <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-Communicators_need_to_communicate_-_do_not_let_liaisons_go_silent">
+      <title>Communicators need to communicate - do not let liaisons go silent</title>
+      <!-- Principle -->
+      <para>
+	<replaceable>Principle needed</replaceable>
+      </para>
+      <!-- Implementation -->
+      <para>
+	<replaceable>Implementation needed</replaceable>
+      </para>
+      <!-- Example -->
+      <para>
+	<replaceable>Example needed</replaceable>
+      </para>
+    </section>
+    <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-Disable_poisonous_communication">
+      <title>Disable poisonous communication</title>
+      <!-- Principle -->
+      <para>
+	<replaceable>Principle needed</replaceable>
+      </para>
+      <!-- Implementation -->
+      <para>
+	<replaceable>Implementation needed</replaceable>
+      </para>
+      <!-- Example -->
+      <para>
+	<replaceable>Example needed</replaceable>
+      </para>
+    </section>
+  </section>
+  <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-Seek_consensus_-_use_voting_as_a_last_resort">
+    <title>Seek consensus - use voting as a last resort</title>
+    <!-- Principle -->
+    <para>
+      Most decisions in an open community are not decided by a vote.
+      As in a well-working democracy, decisions are handled by the
+      experts and knowledgeable people who are in charge at the will
+      of the people around them.
+    </para>
+    <!-- Implementation -->
+    <para>
+      Voting is best left for deciding who is in charge and the
+      occasional very contentious issue.  Don't you wish it weren't
+      contentious?  Wish you could go back and make a consensus?
+    </para>
+    <!-- Example -->
+    <para>
+      <replaceable>Example needed</replaceable>
+    </para>
+  </section>
+  <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-Reassign_your_benevolent_dictators_while_evolving_toward_a_consensus-based_democracy">
+  <title>Reassign your benevolent dictators while evolving toward a consensus-based democracy</title>
+  <!-- Principle -->
+  <para>
+    <ulink url="http://producingoss.com/en/consensus-democracy.html"/>
+  </para>
+  <para>
+    <replaceable>Principle needed</replaceable>
+  </para>
+  <!-- Implementation -->
+  <para>
+    <replaceable>Implementation needed</replaceable>
+  </para>
+  <!-- Example -->
+  <para>
+    <replaceable>Example needed</replaceable>
+  </para>
+  </section>
+  <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-Do_not_forget_to_release_early_and_release_often">
+    <title>Do not forget to release early and release often</title>
+    <!-- Principle -->
+    <para>
+      <replaceable>Principle needed</replaceable>
+    </para>
+    <!-- Implementation -->
+    <para>
+      <replaceable>Implementation needed</replaceable>
+    </para>
+    <!-- Example -->
+    <para>
+      <replaceable>Example needed</replaceable>
+    </para>
+    <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-Release_early_and_release_often_is_for_more_than_just_code">
+      <title>Release early and release often is for more than just code</title>
+      <!-- Principle -->
+      <para>
+	Every idea deserves the light of day as early as possible.
+      </para>
+      <!-- Implementation -->
+      <para>
+	A common mistake is to wait to release a document, process,
+	marketing plan, etc. until it is "just right". People who
+	otherwise fully understand how not to do this in code forget
+	when it comes to other parts of a project.
+      </para>
+      <para>
+	Apply this rule:
+      </para>
+      <itemizedlist>
+	<listitem><para>If a piece of information is confidential, keep it private;</para></listitem>
+	<listitem><para>Otherwise, get it out in the public soonest ...</para></listitem>
+      </itemizedlist>
+      <para>
+	... using techniques such as these ...
+      </para>
+      <itemizedlist>
+	<listitem><para>Bounce the idea off the mailing list(s)</para></listitem>
+	<listitem><para>Make a wiki page</para></listitem>
+	<listitem><para>Add to another wiki page</para></listitem>
+	<listitem><para>File a ticket in a tracking system</para></listitem>
+	<listitem><para>Make a non-coding prototype</para>
+	<itemizedlist>
+	  <listitem><para><firstterm>Wireform</firstterm> web page in
+	  a wysiwyg editor</para></listitem>
+	  <listitem><para>Inkscape or GIMP
+	  mock-up/collage</para></listitem>
+	  <listitem><para>Bar napkin and pen, scanned or
+	  photographed</para></listitem>
+	</itemizedlist></listitem>
+      </itemizedlist>
+      <!-- Example -->
+      <para>
+	<replaceable>Example needed</replaceable>
+      </para>
+    </section>
+  </section>
+  <section id="The_Open_Source_Way-Stuff_everyone_knows_and_forgets_anyway-Evolve_with_the_growth_of_your_audience_and_contributors">
+    <title>Evolve with the growth of your audience and contributors</title>
+    <!-- Principle -->
+    <para>
+      It's easy to say, "We designed this for such-and-such a reason
+      for this particular audience."  It's not so easy to be the only
+      creator and maintainer, though.  If you want to grow beyond just
+      you and your niche group, you have to be willing to accept the
+      influx of new ideas and directions that comes with open
+      collaboration.
+    </para>
+    <!-- Implementation -->
+    <para>
+      <replaceable>Implementation needed</replaceable>
+    </para>
+    <!-- Example -->
+    <para>
+      <replaceable>Example needed</replaceable>
+    </para>
+  </section>
+</chapter>
+

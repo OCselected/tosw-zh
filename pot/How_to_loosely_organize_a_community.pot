@@ -1,0 +1,370 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 0\n"
+"POT-Creation-Date: 2016-01-14 00:04+0800\n"
+"PO-Revision-Date: 2016-01-14 00:04+0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: None\n"
+"Language: en-US \n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Publican v4.3.2\n"
+
+msgid "How to loosely organize a community"
+msgstr ""
+
+msgid "This chapter explains the basic structure of a community that is succeeding and evolving."
+msgstr ""
+
+msgid "We often call this ''community growth'', with the caveat that healthy growth is not boundless growth."
+msgstr ""
+
+msgid "Control the growth -- you water and feed, but you also prune."
+msgstr ""
+
+msgid "If you look at an open source project with a long history, you see these guiding principles of how to loosely organize a community. Going through the history of the BSD project, you see they discovered and iterated through everything from mailing lists to open access code repositories. Their 30+ year lifespan can be viewed as a stretched out version and variation of the Fedora Project's 15 year lifespan from Red Hat Linux to Fedora Linux."
+msgstr ""
+
+msgid "Community soil - true-isms to grow with"
+msgstr ""
+
+msgid "You have one of two goals in your community building plans."
+msgstr ""
+
+msgid "You want to create and be central to the success of a community effort."
+msgstr ""
+
+msgid "You want to be a catalyst in a community that includes you but is not relying upon your individual or team efforts for survival."
+msgstr ""
+
+msgid "Arguably, the second goal is the preferred goal for any Red Hat community activity that leverages community growth to continuously increase the value of our investment, while not having to increase the actual investment."
+msgstr ""
+
+msgid "When we look at the most successful Red Hat products, they come from projects where Red Hat's relative investment over time remains flat or decreases in comparison to the ongoing value. The Linux kernel forms the core of the Red Hat Enterprise Linux distribution, but Red Hat does not employ the greatest number of kernel contributors, just the ones that do the most work that matters to Red Hat as well as the kernel community."
+msgstr ""
+
+msgid "When we look at Red Hat projects that fail, the early investment was high and stayed high throughout the project's lifespan while the community continued to never appear."
+msgstr ""
+
+msgid "Regardless of which goal you have, the methodology is the same."
+msgstr ""
+
+msgid "Initial building the soil or 'Get it going'"
+msgstr ""
+
+msgid "Practice radical transparency from day zero"
+msgstr ""
+
+msgid "Avoid private discussions"
+msgstr ""
+
+msgid "<ulink url=\"http://producingoss.com/en/setting-tone.html#avoid-private-discussions\">Making important decisions in private is like spraying contributor repellant on your project.</ulink>"
+msgstr ""
+
+msgid "From the earliest project moments all discussions and content (documents) need to be openly available and version controlled."
+msgstr ""
+
+msgid "All discussions and decisions must be done in the open and be archived."
+msgstr ""
+
+msgid "Wiki page changes (such as [[Special:RecentChanges]]) and code commit logs to the mailing list until it becomes annoying."
+msgstr ""
+
+msgid "<emphasis role=\"bold\">Do not</emphasis> fall in to the mistake of doing private email discussions to \"get things started quickly.\" You can have all of the needed collaboration tools available within 2 hours and $US15/mon under a custom domain on any number of Linux-based hosting services (at a bare, bare minimum.)"
+msgstr ""
+
+msgid "<emphasis role=\"bold\">Do not</emphasis> underestimate the importance of the right set of tools available at community start or continuance."
+msgstr ""
+
+msgid "<replaceable>Example needed</replaceable>"
+msgstr ""
+
+msgid "Get things started immediately with the simplest and most open communication methods available plus a meeting time"
+msgstr ""
+
+msgid "Focus first on enabling communication, then people can self-organize around the work that needs to get done."
+msgstr ""
+
+msgid "Don't try to get everything ready before revealing to the world. Other people want to help get it ready; it won't be any fun if you do all the work before they get there."
+msgstr ""
+
+msgid "Make sure that meeting happens regularly."
+msgstr ""
+
+msgid "Use it to discuss tasks, leave tactics and strategy for the mailing list."
+msgstr ""
+
+msgid "This ensures the widest participation in the important guiding activities (tactics and strategy)."
+msgstr ""
+
+msgid "#* The meetings become a regular check point/drum beat to ensure progress is made and things are not forgotten."
+msgstr ""
+
+msgid "Start open marketing soonest"
+msgstr ""
+
+msgid "You aren't working on a stealth-mode start-up, you are trying to grow an open project. Make appropriate-sized noise at the earliest opportunities."
+msgstr ""
+
+msgid "Remember that <quote>it is better to do than to seem</quote>. Don't just talk about ideas -- talk about ideas and do stuff about them, too."
+msgstr ""
+
+msgid "At least the leadership needs to blog on relevant technical planets (GNOME, Fedora, etc.)"
+msgstr ""
+
+msgid "Social media information feeds aggregated on a page for reference"
+msgstr ""
+
+msgid "If you are like many people, you are the most excited at the beginning of a new venture. That is when you want to set your tone of voice and participation bar, to give yourself the highest open marketing standards to maintain throughout the community life."
+msgstr ""
+
+msgid "Quiet projects stay quiet. Noisy projects get noisier."
+msgstr ""
+
+msgid "At this point, you have things moving in some direction, even if it is only three of you discussing things loudly in public."
+msgstr ""
+
+msgid "What is going to draw new people are:"
+msgstr ""
+
+msgid "Interesting parts of the project that match their passions."
+msgstr ""
+
+msgid "The project itself inspires passion in people."
+msgstr ""
+
+msgid "Some other passion drives people toward the project."
+msgstr ""
+
+msgid "People find out about this through your rigorously open marketing what you are working on."
+msgstr ""
+
+msgid "What are developers working on and why? Expose every part and reason in a well organized wiki page."
+msgstr ""
+
+msgid "What supportive pieces are not owned or in danger of being orphaned? Make a list and keep it updated."
+msgstr ""
+
+msgid "Tasks, tasks, tasks or 'Project management matters'"
+msgstr ""
+
+msgid "The first item on your task list should be, \"Write initial task list, prioritize, assign dates and doers.\""
+msgstr ""
+
+msgid "An updated task list says, \"We're getting things done, here's where you can help.\""
+msgstr ""
+
+msgid "Think of it like putting a few euros and coins in a guitar case when busking (playing for money in public), or seeding a tip (gratuity) jar with a few dollar bills. Entice people to fill in the blanks of a few \"Unassigned\" items without making it totally scary by being too empty."
+msgstr ""
+
+msgid "One simple project management method is to assign around 50% of the unassigned tasks to the project leader, who then has a lot to delegate when asked."
+msgstr ""
+
+msgid "Too empty is scary"
+msgstr ""
+
+msgid "Too empty is scary. Too full makes it look too late to help. Balance your task list, have at least 60% of your tasks assigned."
+msgstr ""
+
+msgid "If you have more unassigned tasks than 40%, take out some tasks, or mark them as a lower priority. It is a sign that you are reaching too far at this stage. You aren't going to do them anyway, and they can be added back later if still viable."
+msgstr ""
+
+msgid "Ongoing soil support principles or 'Get out of the way'"
+msgstr ""
+
+msgid "We presume you are looking to get the most value from your community growth, meaning you understand you want it to scale beyond your ability to be the central person. You are seeking a leaderless organization, or as near as you can make it."
+msgstr ""
+
+msgid "Turn over leadership tasks to natural community leaders"
+msgstr ""
+
+msgid "As you lower the barriers to participation, as contributors arise from the participants, natural leaders arise from the contributors."
+msgstr ""
+
+msgid "You can tell a natural community leader:"
+msgstr ""
+
+msgid "They listen when people talk."
+msgstr ""
+
+msgid "They talk, people listen."
+msgstr ""
+
+msgid "They get stuff done as much as or more than talking."
+msgstr ""
+
+msgid "They inspire other people."
+msgstr ""
+
+msgid "They demonstrate a sense of ownership of part of or the entire project."
+msgstr ""
+
+msgid "They are eager to own a task or project from the beginning."
+msgstr ""
+
+msgid "They work and play well with others."
+msgstr ""
+
+msgid "They show common sense."
+msgstr ""
+
+msgid "They do not run with scissors."
+msgstr ""
+
+msgid "They tend not <ulink url=\"http://en.wikipedia.org/wiki/Internet_troll\">to feed the trolls</ulink>."
+msgstr ""
+
+msgid "Take that person aside and say, \"Hey, you seem to be in charge of/most interested in Foo, can you be the project leader there?\" At worst, they say no. At best, you just helped give birth to another community leader. Congratulations!"
+msgstr ""
+
+msgid "When Fedora decided to migrate to MediaWiki, the Infrastructure team got an interesting email. Ian Weller wrote, \"If you need any help, give me a shout.\" Turns out he was a minor participant/contributor in Fedora but was passionate about MediaWiki. Within a few weeks, he was debugging migration scripts, writing how-tos, and leading various Fedora teams in best-practices about using MediaWiki. After a highly successful migration and subsequent build-out, Ian was named 'Wiki Czar' in January 2009, <ulink url=\"http://lists.fedoraproject.org/pipermail/fedora-wiki/2009-January/000089.html\">nominated by a member of the Community Architecture team</ulink>."
+msgstr ""
+
+msgid "Turn over project leaders regularly"
+msgstr ""
+
+msgid "Often a single person sits in the center of a group of contributors, acting as a go-between, arbiter, soother of feelings, and go-to person. We call such people \"project leaders\". They are your best friends. They might even be you!"
+msgstr ""
+
+msgid "If they are you, you need a six month exit plan."
+msgstr ""
+
+msgid "You may not pull the trigger right away, but you need to be prepared to."
+msgstr ""
+
+msgid "The sign of a true open source leader ..."
+msgstr ""
+
+msgid "The sign of a true open source leader is they know when to call it quits."
+msgstr ""
+
+msgid "At the <ulink url=\"http://www.moosewoodrestaurant.com/aboutus.html\">Moosewood Restaurant</ulink>, the collective <ulink url=\"http://search.barnesandnoble.com/Sundays-At-Moosewood-Restaurant/Moosewood-Collective/e/9780671679903\">runs the kitchen using a rotational scheme</ulink>. A kitchen worker rotates roles:"
+msgstr ""
+
+msgid "One week as the head chef -- plan menus, order food, touch each plate before it goes to a diner"
+msgstr ""
+
+msgid "One week as the sous chef -- right-hand to the head chef, responsible for food before it leaves the kitchen/line"
+msgstr ""
+
+msgid "One week as a line or prep chef -- fixed work station area, run the process and work hard"
+msgstr ""
+
+msgid "One week as a dish washer -- nothing like seeing up close what people don't eat"
+msgstr ""
+
+msgid "Back to the top"
+msgstr ""
+
+msgid "There is no job in the world that a fresh mind and perspective cannot gain from."
+msgstr ""
+
+msgid "Most of us are not Linus Torvalds ..."
+msgstr ""
+
+msgid "Most of us are not Linus Torvalds. Don't be afraid to find a leader to replace you."
+msgstr ""
+
+msgid "Community building tools - just enough to get the job done"
+msgstr ""
+
+msgid "Initial tooling or 'Get it going'"
+msgstr ""
+
+msgid "Set up a mailing list first"
+msgstr ""
+
+msgid "An open collaboration needs a relatively low barrier to entry communication method that is:"
+msgstr ""
+
+msgid "Open to all to read;"
+msgstr ""
+
+msgid "Open to many to write to;"
+msgstr ""
+
+msgid "Subscribable;"
+msgstr ""
+
+msgid "Openly archived."
+msgstr ""
+
+msgid "A mailing list fulfills this need."
+msgstr ""
+
+msgid "Bonus for doing it on open infrastructure using open source software."
+msgstr ""
+
+msgid "That is a recursive use of the value of the open source way as experienced through quality software."
+msgstr ""
+
+msgid "<ulink url=\"http://list.org\">Mailman</ulink> is the de facto standard."
+msgstr ""
+
+msgid "<replaceable>Example needed.</replaceable>"
+msgstr ""
+
+msgid "You need a version controlled repository for content - code and documentation and art and etc."
+msgstr ""
+
+msgid "For more information on version control, read <xref linkend=\"The_Open_Source_Way-Introduction-Version_control\" />"
+msgstr ""
+
+msgid "Version control is the insurance that makes you and your contributor community bold."
+msgstr ""
+
+msgid "This is a code repository (git, Subversion) and a document system that has the lowest barrier to entry (wiki)."
+msgstr ""
+
+msgid "Look at existing best-of-breed hosting, e.g. fedorahosted.org."
+msgstr ""
+
+msgid "Making giving access to this as easy as possible; do not let the administration fall between the cracks."
+msgstr ""
+
+msgid "Use lightweight, open collaboration tools - wikis, mailing lists, IRC, version control, bug trackers - and give out access"
+msgstr ""
+
+msgid "To quickly gain momentum, a series of small and useful tools always trumps a monolithic, inappropriate, hard to use tool."
+msgstr ""
+
+msgid "People are familiar with certain tools already -- give the people what they want."
+msgstr ""
+
+msgid "The choice here does not need to be open source. If you choose a non-open solution, you incur additional risk for whatever opportunity you are trying to capture. Make sure that a move to fully open tools is part of your roadmap for the project."
+msgstr ""
+
+msgid "Some people will show up to participate no matter what tool you choose. Another group will participate only if the tool is open source, with some preferring popular tools. Why not choose an open, popular solution and capture all groups?"
+msgstr ""
+
+msgid "Default open subscription is the rule"
+msgstr ""
+
+msgid "Spread admin rights to anyone responsible; try to pair with people outside of your organization"
+msgstr ""
+
+msgid "Encourage people to be bold"
+msgstr ""
+
+msgid "Don't be afraid to roll back bad decisions, that is what version control is for"
+msgstr ""
+
+msgid "Be bold yourself"
+msgstr ""
+
+msgid "Ongoing tools or 'Get out of the way'"
+msgstr ""
+
+msgid "Improve your infrastructure to improve your project"
+msgstr ""
+
+msgid "The community needs to keep finding and building tools, processes, and especially automation."
+msgstr ""
+
+msgid "Automated testing, automated building, automated error checking, lint scanners run on code and content, wiki patrolling, etc."
+msgstr ""
+
+msgid "You do not need to always build all this yourself. For example, projects hosted on fedorahosted.org gain everytime a new project is hosted or Fedora Infrastructure adds features to the web apps or the <ulink url=\"http://fedoraproject.org/wiki/MyFedora\">Fedora community panel</ulink>."
+msgstr ""
+

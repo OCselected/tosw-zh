@@ -1,0 +1,328 @@
+<?xml version='1.0'?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+<chapter id="The_Open_Source_Way-Communities_of_Practice">
+  <title>Communities of practice</title>
+  <section id="The_Open_Source_Way-Communities_of_Practice-Introduction">
+    <title>Introduction</title>
+    <blockquote><attribution>Tom Peters, about Etienne Wenger's book <citetitle>Communities of Practice</citetitle></attribution>
+    <para>
+      The idea that an organization is a constellation of "communities
+      of practice" is a genuine breakthrough, and that overused word
+      "breakthrough" is merited.  It is an idea that had profound
+      implications for what it takes to run a successful organization
+      in our frenetic, chaotic times.  In this book, Wenger lays the
+      groundwork for the kind of thinking that will be necessary for
+      any surviving organization in the 21st century.  Wenger and the
+      Institute for Research on Learning are defining the cutting
+      edge.  And they are right!  Pay attention!  Please!''
+    </para>
+    </blockquote>
+  </section>
+  <section id="The_Open_Source_Way-Communities_of_Practice-What_is_a_Community_of_Practice">
+    <title>What is a Community of Practice?</title>
+    <para>
+      It seems to be a commonly held opinion that principles of the
+      open source way are limited to the practice of software
+      development.
+    </para>
+    <para>
+      In fact, the open source way is an instance of a ''community of
+      practice'', which exist in varying forms all around us.  Etienne
+      Wenger, the leading theorist of communities of practice,
+      [http://www.ewenger.com/theory/ defines] the term as follows:
+    </para>
+    <blockquote><attribution>Etienne Wenger</attribution>
+    <para>
+      Communities of practice are formed by people who engage in a
+      process of collective learning in a shared domain of human
+      endeavor: a tribe learning to survive, a band of artists seeking
+      new forms of expression, a group of engineers working on similar
+      problems, a clique of pupils defining their identity in the
+      school, a network of surgeons exploring novel techniques, a
+      gathering of first-time managers helping each other cope. In a
+      nutshell: <emphasis role="bold">Communities of practice are
+      groups of people who share a concern or a passion for something
+      they do and learn how to do it better as they interact
+      regularly.</emphasis>
+    </para>
+    </blockquote>
+  </section>
+  <section id="The_Open_Source_Way-Communities_of_Practice-Elements_of_the_Community_of_Practice">
+    <title>Elements of the Community of Practice</title>
+    <para>
+      Every community of practice consists of three structural
+      elements:
+    </para>
+    <itemizedlist>
+      <listitem><para><firstterm>Domain</firstterm>.  The domain is
+      the area of knowledge that interests the community.  In free
+      software, the domain is usually a particular technical problem
+      that needs to be solved.</para></listitem>
+      <listitem><para><firstterm>Community.</firstterm> The community
+      is the set of people who care enough about the domain to give
+      their own time to participate.  In free software, even though
+      domain may be very specific, interested community members can
+      come from anywhere that's connected to the Internet -- which is
+      one of the factors that makes the community software development
+      model so powerful.</para></listitem>
+      <listitem><para><firstterm>Practice.</firstterm> The practice is
+      the way that work is done, by the community, to further their
+      goals in regard to the domain.  All frameworks, tools, ideas,
+      stories, documents, legal entities, code, and so forth, are all
+      part of the practice.  It's the work, and all the tools used to
+      get the work done.</para></listitem>
+    </itemizedlist>
+  </section>
+  <section id="The_Open_Source_Way-Communities_of_Practice-Principles_for_Cultivating_Communities_of_Practice">
+    <title>Principles for Cultivating Communities of Practice</title>
+    <para>
+      In his book <citetitle>Cultivating Communities of
+      Practice</citetitle>, Etienne Wenger proposes seven principles
+      for successfully cultivating communities of practice.  Anyone
+      who is responsible for moving a community forward towards its
+      goals should consider reading it.
+    </para>
+   <section id="The_Open_Source_Way-Communities_of_Practice-Design_for_evolution">
+     <title>Design for evolution</title>
+     <!-- Principle -->
+     <para>
+       When starting a new community effort, it's difficult to know
+       what form it will take.  Volunteers are not employees; they can
+       only be influenced, never ordered.  Some may take passionately
+       to the proposed project; others may only be able to give some
+       of their time.
+     </para>
+     <!-- Implementation -->
+     <para>
+       Be ready for that.  Concentrate on simple lists that encourage
+       accountability.  Know who's doing what.  Maintain a flexibility
+       of structure, so that if someone to have an idea that takes
+       your effort in a completely different direction, you don't have
+       to change all your rules.  Only have as much "governance" as
+       you need at the time, never more.
+     </para>
+     <para>
+       Also: volunteers leave.  It's a fact of life.  Make it easy to
+       hand off tasks to newcomers, and work to generate newcomers, so
+       that your old-timers don't feel obliged to continue doing work
+       that they no longer have the time or inclination to do.
+     </para>
+     <!-- Example -->
+     <para>
+       At <ulink
+       url="http://teachingopensource.org">teachingopensource.org</ulink>,
+       there are a number of working groups.  Some of them are active;
+       some of them are not.  Creating a new working group is
+       deliberately kept simple; identify a "leader" in charge of
+       moving things forward, and claim a wiki page, and you're all
+       set.  Working groups are evaluated periodically by the entire
+       group, and if it's generally agreed that no progress is being
+       made -- often because the leader doesn't have the time required
+       -- the working group either finds a new leader, or is
+       disbanded.  Simple process, until more complex process is
+       needed.
+     </para>
+   </section>
+   <section id="The_Open_Source_Way-Communities_of_Practice-Open_a_dialogue_between_inside_and_outside_perspectives">
+      <title>Open a dialogue between inside and outside perspectives</title>
+      <!-- Principle -->
+      <para>
+	In any community there are always "insiders" -- i.e., the
+	people who understand the problem space very well, the people
+	who are at the core of the domain space -- and people who are
+	"outsiders", but have enthusiasm, some domain knowledge, and a
+	willingness to help.  A successful community uses both of
+	these perspectives effectively, because it's the outsiders who
+	are most likely to impart new energy and new perspectives.
+      </para>
+      <!-- Implementation -->
+      <para>
+	There are different kinds of insiders and outsiders.  A
+	company's employees can be the insiders, and the customers can
+	be the outsiders.  One particular team can be the insiders,
+	and other employees can be the outsiders.  Beyond companies,
+	longtime members of a community become insiders over time, and
+	newcomers almost always start as outsiders.
+      </para>
+      <!-- Example -->
+      <para>
+	For example, when Red Hat first started the Fedora project,
+	many of the critical decisions were taken by a committee
+	composed only of Red Hat engineers.  A number of critical
+	tasks were assigned to "insiders", and these tasks languished.
+	In the meantime the "outsiders" struggled to find meaningful
+	tasks to help the project's growth.  The public perception
+	looked a lot like <ulink
+	url="http://lwn.net/Articles/83360/">this</ulink>.  The
+	dialogue between the groups made it clear that externalizing
+	the tools and processes were key to community growth.
+      </para>
+   </section>
+   <section id="The_Open_Source_Way-Communities_of_Practice-Invite_different_levels_of_participation">
+     <title>Invite different levels of participation</title>
+     <!-- Principle -->
+     <para>
+       Often, the hard tasks at the center of a domain can only be
+       tackled by the insiders -- but if only the hardest tasks get
+       focus, and only by experts, then those new to the domain do not
+       have opportunities to gain expertise.
+     </para>
+     <!-- Implementation -->
+     <para>
+       One of the important concepts espoused by Wenger is
+       <firstterm>legitimate peripheral participation</firstterm>.  It
+       is, essentially, the idea of apprenticeship; the key difference
+       is that, rather than being apprenticed to an individual, a new
+       practitioner can be apprenticed to the entire community of
+       practice.
+     </para>
+     <para>
+       In a volunteer community especially, people who join are going
+       to be invested in learning more and doing more, and it's
+       important to identify work that matches the newbie's skills,
+       invites them to stretch those skills, and provides people who
+       can help them develop those skills as required.
+     </para>
+     <!-- Example -->
+     <para>
+       As an example, learning to package software is not easy -- but
+       some software is easier to package than others.  Newbie Fedora
+       packagers are invited to learn how to package fonts, since they
+       are simple and very uniform in how they are packaged.  There
+       are also lots and lots of fonts out there that need to be
+       packaged.  It's a perfect "on-ramp" for newbie packagers, and
+       because there are so many fonts to be packaged, there are
+       plenty of opportunities for newbies to be immediately useful.
+     </para>
+     <important>
+       <title>Experts are great, but they're hard to find.</title>
+       <para>
+	 Experts are great, but they're hard to find.  The way to find
+	 more experts is to invest in a process that continually
+	 creates more experts.
+       </para>
+     </important>
+   </section>
+   <section id="The_Open_Source_Way-Communities_of_Practice-Develop_both_public_and_private_community_spaces">
+     <title>Develop both public and private community spaces</title>
+     <!-- Principle -->
+     <para>
+       Avoiding the cabal mentality does <emphasis
+       role="bold">not</emphasis> mean having every single
+       conversation in public, ever.  Transparency is great, but it is
+       unreasonable to expect everyone to be comfortable with full
+       transparency, all the time.
+     </para>
+     <!-- Implementation -->
+     <para>
+       Also, one-to-one communication builds intimacy and trust that
+       multiway communication cannot.  Especially as new participants
+       are building confidence, it's vitally important to build
+       private relationships between individuals.  Certainly it is
+       appropriate to encourage important conversations to be moved
+       into public forums, especially conversations about actions that
+       will affect others.  But private chats are important too, and
+       often useful for eliciting insights that help move the more
+       public conversations forward.
+     </para>
+     <!-- Example -->
+     <para>
+       In particular, private conversations can be critical to
+       resolving conflicts within communities, and community leaders
+       who are seen as responsible for the community's health should
+       be comfortable taking the parties aside.  There have been many
+       examples in the Fedora community of conflicts that were better
+       resolved in private, and there will be more in the future.
+     </para>
+   </section>
+   <section id="The_Open_Source_Way-Communities_of_Practice-Focus_on_value">
+     <title>Focus on value</title>
+     <!-- Principle -->
+     <para>
+       No volunteer wants to spend time on work that nobody values.
+       Therefore, encourage community members to express the value
+       that they receive from the community, and to reflect on the
+       value that they provide.
+     </para>
+     <!-- Implementation -->
+     <para>
+       Also understand that not everyone's notion of value needs to
+       agree; so long as participants do not actually detract by
+       participating, they should feel free to add value in whatever
+       way they see fit.  Core participants frequently do not value a
+       set of contributions initially, and only come to understand and
+       appreciate that value later.  Even contributions that are
+       wildly experimental and far from the mainstream, and may not
+       seem at all valuable, should be respected and encouraged.
+     </para>
+     <!-- Example -->
+     <para>
+       Example: There was a time, not so long ago, when many central
+       members of the Fedora community saw a Live CD as a waste of
+       effort.  The Live CD is now one the most important deliverables
+       of the entire Fedora community.  But it was clear to the
+       initial contributors that a good Live CD was critically
+       valuable, and the community's embrace of that work led to a
+       critical mass of contributors to focus on, and solve, the
+       problem.
+     </para>
+   </section>
+   <section id="The_Open_Source_Way-Communities_of_Practice-Combine_familiarity_and_excitement">
+     <title>Combine familiarity and excitement</title>
+     <!-- Principle -->
+     <para>
+       Stable and familiar working processes are vital, because people
+       need tasks to focus their day-to-day work.
+     </para>
+     <!-- Implementation -->
+     <para>
+       Still, people can not thrive on heads-down tasks alone.
+       Exciting new challenges create opportunities to energize old
+       friends and attract new ones, and give volunteers an important
+       sense that they are all wrapped up in a great and important
+       challenge.  This excitement is crucially important to keep
+       volunteers motivated on the daily work.
+     </para>
+     <!-- Example -->
+     <para>
+       <replaceable>Example needed.</replaceable>
+     </para>
+   </section>
+   <section id="The_Open_Source_Way-Communities_of_Practice-Create_a_rhythm_for_the_community">
+     <title>Create a rhythm for the community</title>
+     <!-- Principle -->
+     <para>
+       The pace of engagement is crucially important in a community of
+       doers.
+     </para>
+     <!-- Implementation -->
+     <para>
+       Moving too quickly and demanding too much, too soon, can leave
+       volunteers frantic and feeling like they can't keep up.  Moving
+       too slowly can lose volunteers who do not see enough activity
+       to hold their own interest.
+     </para>
+     <!-- Example -->
+     <para>
+       The weekly IRC meeting has been a hallmark of most successful
+       Fedora projects.  For some projects, a weekly meeting may be
+       too much, and for other projects, a weekly meeting may only be
+       a way to checkpoint activity that is going on constantly.
+       Either way, building and maintaining a sense of rhythm is
+       crucial for a healthy community.
+     </para>
+   </section>
+ </section>
+ <section id="The_Open_Source_Way-Communities_of_Practice-Learn_more">
+   <title>Learn more</title>
+   <para>
+     To learn more about how to cultivate communities of practice,
+     read Etienne Wenger's book on the subject:
+   </para>
+   <para>
+     <ulink url="http://www.amazon.com/Cultivating-Communities-Practice-Etienne-Wenger/dp/1578513308"/>
+   </para>
+ </section>
+</chapter>

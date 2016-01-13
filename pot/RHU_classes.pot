@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 0\n"
+"POT-Creation-Date: 2016-01-14 00:04+0800\n"
+"PO-Revision-Date: 2016-01-14 00:04+0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: None\n"
+"Language: en-US \n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Publican v4.3.2\n"
+
+msgid "RHU classes"
+msgstr ""
+
+msgid "If you know of any good Red Hat University classes that are useful in teaching similar principles to those covered in <citetitle>The Open Source Way</citetitle>, add them here. Optionally, add them to the <ulink url=\"http://commarch.usersys.redhat.com/wiki/Talk:RHU_classes\">page</ulink>, where content for this page is discussed."
+msgstr ""
+
+msgid "TCL 001 - The Free Software Movement and the GNU/Linux Operating System"
+msgstr ""
+
+msgid "Description: GNU founder and free software icon explains the origins and successes of the Free Software Foundation and GNU/Linux. Delivered via RealMedia video"
+msgstr ""
+
+msgid "Abstract: A lecture by Richard Stallman, provided by ArsDigita University (ADU) at http://www.aduni.org and released under the Creative Commons (http://creativecommons.org) Open Content License."
+msgstr ""
+
+msgid "TCL100 - The Fedora Message"
+msgstr ""
+
+msgid "Description: Warren Togami discusses the Fedora Project, how it came to be, and how you can become involved in the project's future."
+msgstr ""
+
+msgid "The Open Source Way course"
+msgstr ""
+
+msgid "The Community Architecture team is working on a course based on <citetitle>The Open Source Way</citetitle>, probably offered as a virtual learning and an optional instructor-led training."
+msgstr ""
+

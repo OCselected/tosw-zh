@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 0\n"
+"POT-Creation-Date: 2016-01-14 00:04+0800\n"
+"PO-Revision-Date: 2016-01-14 00:04+0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: None\n"
+"Language: en-US \n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Publican v4.3.2\n"
+
+msgid "Who else to watch"
+msgstr ""
+
+msgid "This section generally lists individuals and organizations external to Red Hat that are useful to watch their approach to community."
+msgstr ""
+
+msgid "A sustainable community underpinning is continuous improvement. To improve, we learn from each other."
+msgstr ""
+
+msgid "For that reason, this book needs ''your'' help. Add to these lists."
+msgstr ""
+
+msgid "We could list names and organizations endlessly. Try to pick the ones that matter."
+msgstr ""
+
+msgid "People"
+msgstr ""
+
+msgid "Endless list?"
+msgstr ""
+
+msgid "Groups"
+msgstr ""
+
+msgid "Not quite such an endless list ..."
+msgstr ""
+

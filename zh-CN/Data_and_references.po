@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 0\n"
+"POT-Creation-Date: 2016-01-14 00:04+0800\n"
+"PO-Revision-Date: 2016-01-14 00:04+0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: None\n"
+"Language: en-US \n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Publican v4.3.2\n"
+
+msgid "Data and references"
+msgstr ""
+
+msgid "This chapter contains copies or links to data and references used in this book."
+msgstr ""
+
+msgid "References"
+msgstr ""
+
+msgid "These are online and offline references that support conclusions drawn elsewhere."
+msgstr ""
+
+msgid "<ulink url=\"http://pyre.third-bit.com/blog/archives/2006.html\">Interview with Seneca College's David Humphrey</ulink>, where he gives a succinct list of success factors."
+msgstr ""
+
+msgid "<ulink url=\"http://it.toolbox.com/blogs/database-soup/community-destroyers-24309\"> Josh Berkus' Ten Ways to Destroy Your Community</ulink>, with some replies to Rodrigues' rebuttal (below.)"
+msgstr ""
+
+msgid "<ulink url=\"http://www.bytebot.net/blog/archives/2008/05/07/ten-ways-to-destroy-your-community\">Colin Charles post on the presentation</ulink>"
+msgstr ""
+
+msgid "<ulink url=\"http://weblog.infoworld.com/openresource/archives/2008/05/josh_berkus_on.html\">Zack Urlocker post on the presentation</ulink>"
+msgstr ""
+
+msgid "<ulink url=\"http://weblog.infoworld.com/openresource/archives/2008/05/questioning_jos.html\">Savio Rodrigues rebuttal post on the presentation</ulink>"
+msgstr ""
+
+msgid "<ulink url=\"http://en.wikipedia.org/wiki/The_Starfish_and_the_Spider#The_Ten_Rules\">The top ten rules</ulink> from <ulink url=\"http://en.wikipedia.org/wiki/The_Starfish_and_the_Spider\">The Starfish and The Spider</ulink>."
+msgstr ""
+
+msgid "<ulink url=\"http://www.redhat.com/magazine/001nov04/features/tripleplay/\">Open Source Triple Play</ulink>"
+msgstr ""
+
+msgid "<ulink url=\"http://et.redhat.com/~rjones/how-to-supply-code-to-open-source-projects/\">How to get your code into an open source project</ulink>"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "This section contains copies of relevant data for immediate reference, as well as links and sources."
+msgstr ""
+

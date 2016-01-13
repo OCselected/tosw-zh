@@ -1,0 +1,208 @@
+<?xml version='1.0'?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+<chapter id="The_Open_Source_Way-How_to_tell_if_a_FLOSS_project_is_doomed_to_FAIL">
+  <title>How to tell if a FLOSS project is doomed to FAIL</title>
+  <para>
+    (This was originally written by <ulink
+    url="http://fedoraproject.org/wiki/User:Spot">Tom 'spot'
+    Callaway</ulink> and is used here under the <ulink
+    url="http://creativecommons.org/licenses/by-sa/3.0/">CC BY SA
+    3.0</ulink> license.  The work <ulink
+    url="http://spot.livejournal.com/308370.html">How you know your
+    Free or Open Source Software Project is doomed to FAIL (or at
+    least, held back fro])m success)</ulink> originally appeared at
+    this URL:)
+  </para>
+  <para>
+    <ulink url="http://spot.livejournal.com/308370.html"/>
+  </para>
+  <para>
+    This was inspired by my recent efforts to look at <ulink
+    url="http://code.google.com/chromium/">Chromium</ulink>, but these
+    are just some of the red flags I generally have observed over the
+    years written down.
+  </para>
+  <itemizedlist>
+    <title>Size</title>
+    <listitem><para>The source code is more than 100 MB. [ +5 points
+      of FAIL ]</para></listitem>
+      <listitem><para>If the source code also exceeds 100 MB when it
+      is compressed [ +5 points of FAIL ]</para></listitem>
+  </itemizedlist>
+  <itemizedlist>
+    <title>Source Control</title>
+    <listitem><para>There is no publicly available source control
+    (e.g. cvs, svn, bzr, git) [ +10 points of FAIL
+    ]</para></listitem>
+    <listitem><para>There is publicly available source control,
+    but:</para></listitem>
+    <listitem><para>There is no web viewer for it [ +5 points of
+    FAIL ]</para></listitem>
+    <listitem><para>There is no documentation on how to use it for
+    new users [ +5 points of FAIL ]</para></listitem>
+    <listitem><para>You've written your own source control for this
+    code [ +30 points of FAIL ]</para></listitem>
+    <listitem><para>You don't actually use the existing source
+    control [ +50 points of FAIL ]</para></listitem>
+  </itemizedlist>
+  <itemizedlist>
+    <title>Building From Source</title>
+    <listitem><para>There is no documentation on how to build from
+    source [ +20 points of FAIL ]</para></listitem>
+    <listitem><para>If documentation exists on how to build from
+    source, but it doesn't work [ +10 points of FAIL
+    ]</para></listitem>
+    <listitem><para>Your source is configured with a handwritten
+    shell script [ +10 points of FAIL ]</para></listitem>
+    <listitem><para>Your source is configured editing flat text
+    config files [ +20 points of FAIL]</para></listitem>
+    <listitem><para>Your source is configured by editing code header
+    files manually [ +30 points of FAIL ]</para></listitem>
+    <listitem><para>Your source isn't configurable [ +50 points of
+    FAIL ]</para></listitem>
+    <listitem><para>Your source builds using something that isn't
+    GNU Make [ +10 points of FAIL ]</para></listitem>
+    <listitem><para>Your source only builds with third-party
+    proprietary build tools [ +50 points of FAIL ]</para></listitem>
+    <listitem><para>You've written your own build tool for this code
+    [ +100 points of FAIL ]</para></listitem>
+  </itemizedlist>
+  <itemizedlist>
+    <title>Bundling</title>
+    <listitem><para>Your source only comes with other code projects
+    that it depends on [ +20 points of FAIL ]</para></listitem>
+    <listitem><para>If your source code cannot be built without
+    first building the bundled code bits [ +10 points of FAIL
+    ]</para></listitem>
+    <listitem><para>If you have modified those other bundled code
+    bits [ +40 points of FAIL ]</para></listitem>
+  </itemizedlist>
+  <itemizedlist>
+    <title>Libraries</title>
+    <listitem><para>Your code only builds static libraries [ +20
+    points of FAIL ]</para></listitem>
+    <listitem><para>Your code can build shared libraries, but only
+    unversioned ones [ +20 points of FAIL ]</para></listitem>
+    <listitem><para>Your source does not try to use system libraries
+    if present [ +20 points of FAIL ]</para></listitem>
+  </itemizedlist>
+  <itemizedlist>
+    <title>System Install</title>
+    <listitem><para>Your code tries to install into /opt or
+    /usr/local [ +10 points of FAIL ]</para></listitem>
+    <listitem><para>Your code has no "make install" [ +20 points of
+    FAIL ]</para></listitem>
+    <listitem><para>Your code doesn't work outside of the source
+    directory [ +30 points of FAIL ]</para></listitem>
+  </itemizedlist>
+  <itemizedlist>
+    <title>Code Oddities</title>
+    <listitem><para>Your code uses Windows line breaks ("DOS format"
+    files) [ +5 points of FAIL ]</para></listitem>
+    <listitem><para>Your code depends on specific compiler feature
+    functionality [ +20 points of FAIL ]</para></listitem>
+    <listitem><para>Your code depends on specific compiler bugs [
+    +50 points of FAIL ]</para></listitem>
+    <listitem><para>Your code depends on Microsoft Visual Anything [
+    +100 points of FAIL ]</para></listitem>
+  </itemizedlist>
+  <itemizedlist>
+    <title>Communication</title>
+    <listitem><para>Your project does not announce releases on a
+    mailing list [ +5 points of FAIL ]</para></listitem>
+    <listitem><para>Your project does not have a mailing list [ +10
+    points of FAIL ]</para></listitem>
+    <listitem><para>Your project does not have a bug tracker [ +20
+    points of FAIL ]</para></listitem>
+    <listitem><para>Your project does not have a website [ +50
+    points of FAIL]</para></listitem>
+    <listitem><para>Your project is sourceforge vaporware [ +100
+    points of FAIL ]</para></listitem>
+  </itemizedlist>
+  <itemizedlist>
+    <title>Releases</title>
+    <listitem><para>Your project does not do sanely versioned
+    releases (Major, Minor) [ +10 points of FAIL ]</para></listitem>
+    <listitem><para>Your project does not do versioned releases [
+    +20 points of FAIL ]</para></listitem>
+    <listitem><para>Your project does not do releases [ +50 points
+    of FAIL ]</para></listitem>
+    <listitem><para>Your project only does releases as attachments
+    in web forum posts [ +100 points of FAIL ]</para></listitem>
+    <listitem><para>Your releases are only in .zip format [ +5
+    points of FAIL ]</para></listitem>
+    <listitem><para>Your releases are only in OSX .zip format [ +10
+    points of FAIL ]</para></listitem>
+    <listitem><para>Your releases are only in .rar format [ +20
+    points of FAIL ]</para></listitem>
+    <listitem><para>Your releases are only in .arj format [ +50
+    points of FAIL ]</para></listitem>
+    <listitem><para>Your releases are only in an encapsulation
+    format that you invented. [ +100 points of FAIL
+    ]</para></listitem>
+    <listitem><para>Your release does not unpack into a versioned
+    top-level directory (e.g. glibc-2.4.2/ ) [ +10 points of FAIL
+    ]</para></listitem>
+    <listitem><para>Your release does not unpack into a top-level
+    directory (e.g. glibc/ ) [ +25 points of FAIL
+    ]</para></listitem>
+    <listitem><para>Your release unpacks into an absurd number of
+    directories (e.g. home/johndoe/glibc-svn/tarball/glibc/src/) [
+    +50 points of FAIL ]</para></listitem>
+  </itemizedlist>
+  <itemizedlist>
+    <title>History</title>
+    <listitem><para>Your code is a fork of another project [ +10
+    points of FAIL ]</para></listitem>
+    <listitem><para>Your primary developers were not involved with
+    the parent project [ +50 points of FAIL ]</para></listitem>
+    <listitem><para>Until open sourcing it, your code was
+    proprietary for:</para></listitem>
+    <listitem><para>1-2 years [ +10 points of FAIL
+    ]</para></listitem>
+    <listitem><para>3-5 years [ +20 points of FAIL
+    ]</para></listitem>
+    <listitem><para>6-10 years [ +30 points of FAIL
+    ]</para></listitem>
+    <listitem><para>10+ years [ +50 points of FAIL ]</para></listitem>
+  </itemizedlist>
+  <itemizedlist>
+    <title>Licensing</title>
+    <listitem><para>Your code does not have per-file licensing [ +10
+    points of FAIL ]</para></listitem>
+    <listitem><para>Your code contains inherent license
+    incompatibilities [ +20 points of FAIL ]</para></listitem>
+    <listitem><para>Your code does not have any notice of licensing
+    intent [ +30 points of FAIL ]</para></listitem>
+    <listitem><para>Your code doesn't include a copy of the license
+    text [ +50 points of FAIL ]</para></listitem>
+    <listitem><para>Your code doesn't have a license [ +100 points
+    of FAIL ]</para></listitem>
+  </itemizedlist>
+  <itemizedlist>    
+    <title>Documentation</title>
+    <listitem><para>Your code doesn't have a changelog [+10 points
+    of FAIL]</para></listitem>
+    <listitem><para>Your code doesn't have any documentation [ +20
+    points of FAIL ]</para></listitem>
+    <listitem><para>Your website doesn't have any documentation [
+    +30 points of FAIL ]</para></listitem>
+  </itemizedlist>
+  <itemizedlist>
+    <title>FAIL METER</title>
+    <listitem><para>0 points of FAIL: Perfect! All signs point to
+    success!</para></listitem>
+    <listitem><para>5-25 points of FAIL: You're probably doing okay,
+    but you could be better.</para></listitem>
+    <listitem><para>30-60 points of FAIL: Babies cry when your code
+    is downloaded</para></listitem>
+    <listitem><para>65-90 points of FAIL: Kittens die when your code
+    is downloaded</para></listitem>
+    <listitem><para>95-130 points of FAIL: HONK HONK. THE FAILBOAT
+    HAS ARRIVED!</para></listitem>
+    <listitem><para>135+ points of FAIL: So much fail, your code
+    should have its own reality TV show.</para></listitem>
+  </itemizedlist>
+</chapter>

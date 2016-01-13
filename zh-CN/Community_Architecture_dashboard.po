@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 0\n"
+"POT-Creation-Date: 2016-01-14 00:04+0800\n"
+"PO-Revision-Date: 2016-01-14 00:04+0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: None\n"
+"Language: en-US \n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Publican v4.3.2\n"
+
+msgid "Community Architecture dashboard"
+msgstr ""
+
+msgid "Red Hat's Community Architecture team supports our executive leadership team by providing a dashboard-view of community health information. The communities on the dashboard list vary depending on interest and need. For example, we are not actively watching the health of our Linux kernel or GCC contributions. This is because those communities are self-sustaining and extremely healthy. Instead, the dashboard watches important, struggling, and nascent community efforts that either the team or the corporate leadership team are interested in tracking."
+msgstr ""
+
+msgid "Current aspects of the dashboard:"
+msgstr ""
+
+msgid "Data gathered through <ulink url=\"https://fedorahosted.org/ekg\">EKG</ulink>"
+msgstr ""
+

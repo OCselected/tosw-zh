@@ -1,0 +1,38 @@
+<?xml version='1.0'?>
+<!DOCTYPE bookinfo PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+<bookinfo id="The_Open_Source_Way-Community_Architecture">
+	<title>The Open Source Way</title>
+	<subtitle>Creating and nurturing communities of contributors</subtitle>
+	<productname>TOSW</productname>
+	<productnumber>0.2.2</productnumber>
+	<edition>1</edition>
+	<pubsnumber>0</pubsnumber>
+	<abstract>
+	  <para>
+	    This guide is for helping people to understand how to and
+	    how not to engage with community over projects such as
+	    software, content, marketing, art, infrastructure,
+	    standards, and so forth. It contains knowledge distilled
+	    from years of Red Hat experience.
+	  </para>
+	</abstract>
+	<corpauthor>
+		<inlinemediaobject>
+			<imageobject>
+				<imagedata format='SVG' fileref="Common_Content/images/title_logo.svg" />
+			</imageobject>
+			<textobject><phrase>Logo</phrase></textobject>
+		</inlinemediaobject>
+	</corpauthor>
+	<copyright>
+		<year>&YEAR;</year>
+		<holder>&HOLDER;</holder>
+	</copyright>
+	<xi:include href="Common_Content/Legal_Notice.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	<xi:include href="Author_Group.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+</bookinfo>
+
+
+

@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 0\n"
+"POT-Creation-Date: 2016-01-14 00:04+0800\n"
+"PO-Revision-Date: 2016-01-14 00:04+0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: None\n"
+"Language: en-US \n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Publican v4.3.2\n"
+
+msgid "What your business does correctly when practicing the open source way"
+msgstr ""
+
+msgid "This chapter is a pat on the back for what you do correctly."
+msgstr ""
+
+msgid "It is also your reminder -- don't forget to keep on doing these parts that work well."
+msgstr ""
+
+msgid "<firstterm>Continuous improvement</firstterm> means we are always building on what we have learned before. It is not a single state that you achieve to remain static."
+msgstr ""
+
+msgid "For example, the course of the Fedora Project as a source for a Linux distribution demonstrates the spirit of continuous improvement in the open. Simply converting the community Linux distro to a non-commercial project was not enough. It took six releases of Fedora to get over the hump of enabling the wider community to contribute without inhibition or barriers."
+msgstr ""
+
+msgid "Identifies and focuses on key future technology"
+msgstr ""
+
+msgid "The technology you defined two years ago, perfected a year ago, and are making money on today, is going to be a commodity a year or two from now. This is one constant we can rely upon."
+msgstr ""
+
+msgid "Open source communities force your organization to keep moving, to never get comfortable in one spot for too long. This is an effect of the rapid way open source software can advance, and it works to your advantage to always have little brothers and sisters nipping at your heels."
+msgstr ""
+
+msgid "Early in the 2000s, Red Hat provided the industry's best system management for Linux via RHN. Because that project was internal only and so was limited in its future by exactly how many people Red Hat hired to work on it, there was a natural limit to how long RHN would remain in a leadership position."
+msgstr ""
+
+msgid "Although arguably Red Hat was able to keep RHN relevant for an additional few years by not engaging in external system management projects, the resulting situation in 2009 is quite opposite. RHN has now drifted backward in relevancy compared to open source alternatives, and the open source tools far outstrip RHN capabilities where it matters the most to customers."
+msgstr ""
+
+msgid "The technologies in the best position to replace RHN include Nagios, Puppet, Cobbler, Func, and Yum -- the first two were started by Red Hat engineers and maintain strongly influenced by Red Hat needs, while Yum was made successful by being the better and open dependency resolver that the RHN tool 'up2date' was not. It took a few years longer in this case, but Red Hat is getting to the next level by re-focusing on the key technology."
+msgstr ""
+
+msgid "Funds key open source development"
+msgstr ""
+
+msgid "You may have the power of the pocket book. By applying funding intelligently, you can be instrumental in the initiation and growth of important open source projects."
+msgstr ""
+
+msgid "The best implementations of this idea are when an initial high investment is followed by a low and ongoing investment that remains relatively level or linear in progression. As the project grows, your relative investment grows at a fraction of the rate of the overall project; this is where the low-investment, high-return of open source contribution occurs."
+msgstr ""
+
+msgid "Another interesting implementation is when you can direct ''other'' organization's funds at open source."
+msgstr ""
+
+msgid "By learning from when your investment does not pay off, such as ongoing high-investment with not enough return, you gain value from mistakes made."
+msgstr ""
+
+msgid "For example, the NSA partnered with Red Hat to work on getting SELinux upstream in the Linux kernel. The NSA goal was to have Red Hat bake SELinux in to a commercial off-the-shelf (COTS) package that US Government agencies could procur. While Red Hat was making a technology bet that included hiring key and unique developers from the communities, it was also helping the NSA to direct their efforts in the open community."
+msgstr ""
+
+msgid "Back to the idea of spending your own money, there are a number of key technologies and projects that stand-alone now, but owe some initial lifeblood to market interests. At Red Hat, these include: GNOME; XEN virtualization and the advancement of virt under Linux (libvirt, oVirt, etc.); RPM."
+msgstr ""
+
+msgid "For a more comprehensive list, refer to <ulink url=\"http://fedoraproject.org/wiki/Red_Hat_contributions\" />."
+msgstr ""
+
+msgid "Makes mistakes and learns from them"
+msgstr ""
+
+msgid "<replaceable>Principle needed</replaceable>"
+msgstr ""
+
+msgid "<replaceable>Implementation needed</replaceable>"
+msgstr ""
+
+msgid "<replaceable>Example needed</replaceable>"
+msgstr ""
+
+msgid "Is daring about applying the open source way to non-engineering teams"
+msgstr ""
+
+msgid "From design thinking to IT's Genome project, the open collaboration methodologies are used throughout Red Hat to set strategy and achieve goals."
+msgstr ""
+
+msgid "Works hard to preserve culture in a fast growing company"
+msgstr ""
+
+msgid "Takes people who think they understand the open source way and really teaches them how it works"
+msgstr ""
+
+msgid "Including discussion around open source in new hire training is an example of this."
+msgstr ""
+
+msgid "Rethinking how departments are structured and combined, and how they collaborate, is another way of teaching and permeating a culture of open source."
+msgstr ""
+
+msgid "Has a strong brand and steers that consistently through community interactions at all levels"
+msgstr ""
+
+msgid "From CxO interactions to customer and free community relationships, there is a remarkable consistency to the Red Hat brand. This is due to more than a strong campaign by the Brand team. It also requires the brand message to live inside of Red Hat associates. It comes from people associating the open source way with the way Red Hat does business."
+msgstr ""
+

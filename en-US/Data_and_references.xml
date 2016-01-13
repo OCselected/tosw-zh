@@ -1,0 +1,46 @@
+<?xml version='1.0'?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+<chapter id="The_Open_Source_Way-Data_and_references">
+  <title>Data and references</title>
+  <para>
+    This chapter contains copies or links to data and references used
+    in this book.
+  </para>
+  <section id="The_Open_Source_Way-Data_and_references-References">
+    <title>References</title>
+    <para>
+      These are online and offline references that support conclusions
+      drawn elsewhere.
+    </para>
+    <itemizedlist>
+      <listitem><para><ulink url="http://pyre.third-bit.com/blog/archives/2006.html">Interview with Seneca College's David Humphrey</ulink>, where he gives a succinct list of success factors.</para></listitem>
+      <listitem><para><ulink
+      url="http://it.toolbox.com/blogs/database-soup/community-destroyers-24309">
+      Josh Berkus' Ten Ways to Destroy Your Community</ulink>, with
+      some replies to Rodrigues' rebuttal (below.)</para>
+      <itemizedlist>
+	<listitem><para><ulink
+	url="http://www.bytebot.net/blog/archives/2008/05/07/ten-ways-to-destroy-your-community">Colin
+	Charles post on the presentation</ulink></para></listitem>
+	<listitem><para><ulink url="http://weblog.infoworld.com/openresource/archives/2008/05/josh_berkus_on.html">Zack Urlocker post on the presentation</ulink></para></listitem>
+	<listitem><para><ulink url="http://weblog.infoworld.com/openresource/archives/2008/05/questioning_jos.html">Savio Rodrigues rebuttal post on the presentation</ulink></para></listitem>
+      </itemizedlist>
+      </listitem>
+      <listitem><para><ulink url="http://en.wikipedia.org/wiki/The_Starfish_and_the_Spider#The_Ten_Rules">The top ten rules</ulink> from <ulink url="http://en.wikipedia.org/wiki/The_Starfish_and_the_Spider">The Starfish and The Spider</ulink>.</para></listitem>
+      <listitem><para><ulink url="http://www.redhat.com/magazine/001nov04/features/tripleplay/">Open Source Triple Play</ulink></para></listitem>
+      <listitem><para><ulink
+      url="http://et.redhat.com/~rjones/how-to-supply-code-to-open-source-projects/">How
+      to get your code into an open source
+      project</ulink></para></listitem>
+    </itemizedlist>
+  </section>
+  <section id="The_Open_Source_Way-Data_and_references-Date">
+    <title>Data</title>
+    <para>
+      This section contains copies of relevant data for immediate
+      reference, as well as links and sources.
+    </para>
+  </section>
+</chapter>

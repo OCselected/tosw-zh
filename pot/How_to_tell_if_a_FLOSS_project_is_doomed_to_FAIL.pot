@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 0\n"
+"POT-Creation-Date: 2016-01-14 00:04+0800\n"
+"PO-Revision-Date: 2016-01-14 00:04+0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: None\n"
+"Language: en-US \n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Publican v4.3.2\n"
+
+msgid "How to tell if a FLOSS project is doomed to FAIL"
+msgstr ""
+
+msgid "(This was originally written by <ulink url=\"http://fedoraproject.org/wiki/User:Spot\">Tom 'spot' Callaway</ulink> and is used here under the <ulink url=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY SA 3.0</ulink> license. The work <ulink url=\"http://spot.livejournal.com/308370.html\">How you know your Free or Open Source Software Project is doomed to FAIL (or at least, held back fro])m success)</ulink> originally appeared at this URL:)"
+msgstr ""
+
+msgid "<ulink url=\"http://spot.livejournal.com/308370.html\" />"
+msgstr ""
+
+msgid "This was inspired by my recent efforts to look at <ulink url=\"http://code.google.com/chromium/\">Chromium</ulink>, but these are just some of the red flags I generally have observed over the years written down."
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "The source code is more than 100 MB. [ +5 points of FAIL ]"
+msgstr ""
+
+msgid "If the source code also exceeds 100 MB when it is compressed [ +5 points of FAIL ]"
+msgstr ""
+
+msgid "Source Control"
+msgstr ""
+
+msgid "There is no publicly available source control (e.g. cvs, svn, bzr, git) [ +10 points of FAIL ]"
+msgstr ""
+
+msgid "There is publicly available source control, but:"
+msgstr ""
+
+msgid "There is no web viewer for it [ +5 points of FAIL ]"
+msgstr ""
+
+msgid "There is no documentation on how to use it for new users [ +5 points of FAIL ]"
+msgstr ""
+
+msgid "You've written your own source control for this code [ +30 points of FAIL ]"
+msgstr ""
+
+msgid "You don't actually use the existing source control [ +50 points of FAIL ]"
+msgstr ""
+
+msgid "Building From Source"
+msgstr ""
+
+msgid "There is no documentation on how to build from source [ +20 points of FAIL ]"
+msgstr ""
+
+msgid "If documentation exists on how to build from source, but it doesn't work [ +10 points of FAIL ]"
+msgstr ""
+
+msgid "Your source is configured with a handwritten shell script [ +10 points of FAIL ]"
+msgstr ""
+
+msgid "Your source is configured editing flat text config files [ +20 points of FAIL]"
+msgstr ""
+
+msgid "Your source is configured by editing code header files manually [ +30 points of FAIL ]"
+msgstr ""
+
+msgid "Your source isn't configurable [ +50 points of FAIL ]"
+msgstr ""
+
+msgid "Your source builds using something that isn't GNU Make [ +10 points of FAIL ]"
+msgstr ""
+
+msgid "Your source only builds with third-party proprietary build tools [ +50 points of FAIL ]"
+msgstr ""
+
+msgid "You've written your own build tool for this code [ +100 points of FAIL ]"
+msgstr ""
+
+msgid "Bundling"
+msgstr ""
+
+msgid "Your source only comes with other code projects that it depends on [ +20 points of FAIL ]"
+msgstr ""
+
+msgid "If your source code cannot be built without first building the bundled code bits [ +10 points of FAIL ]"
+msgstr ""
+
+msgid "If you have modified those other bundled code bits [ +40 points of FAIL ]"
+msgstr ""
+
+msgid "Libraries"
+msgstr ""
+
+msgid "Your code only builds static libraries [ +20 points of FAIL ]"
+msgstr ""
+
+msgid "Your code can build shared libraries, but only unversioned ones [ +20 points of FAIL ]"
+msgstr ""
+
+msgid "Your source does not try to use system libraries if present [ +20 points of FAIL ]"
+msgstr ""
+
+msgid "System Install"
+msgstr ""
+
+msgid "Your code tries to install into /opt or /usr/local [ +10 points of FAIL ]"
+msgstr ""
+
+msgid "Your code has no \"make install\" [ +20 points of FAIL ]"
+msgstr ""
+
+msgid "Your code doesn't work outside of the source directory [ +30 points of FAIL ]"
+msgstr ""
+
+msgid "Code Oddities"
+msgstr ""
+
+msgid "Your code uses Windows line breaks (\"DOS format\" files) [ +5 points of FAIL ]"
+msgstr ""
+
+msgid "Your code depends on specific compiler feature functionality [ +20 points of FAIL ]"
+msgstr ""
+
+msgid "Your code depends on specific compiler bugs [ +50 points of FAIL ]"
+msgstr ""
+
+msgid "Your code depends on Microsoft Visual Anything [ +100 points of FAIL ]"
+msgstr ""
+
+msgid "Communication"
+msgstr ""
+
+msgid "Your project does not announce releases on a mailing list [ +5 points of FAIL ]"
+msgstr ""
+
+msgid "Your project does not have a mailing list [ +10 points of FAIL ]"
+msgstr ""
+
+msgid "Your project does not have a bug tracker [ +20 points of FAIL ]"
+msgstr ""
+
+msgid "Your project does not have a website [ +50 points of FAIL]"
+msgstr ""
+
+msgid "Your project is sourceforge vaporware [ +100 points of FAIL ]"
+msgstr ""
+
+msgid "Releases"
+msgstr ""
+
+msgid "Your project does not do sanely versioned releases (Major, Minor) [ +10 points of FAIL ]"
+msgstr ""
+
+msgid "Your project does not do versioned releases [ +20 points of FAIL ]"
+msgstr ""
+
+msgid "Your project does not do releases [ +50 points of FAIL ]"
+msgstr ""
+
+msgid "Your project only does releases as attachments in web forum posts [ +100 points of FAIL ]"
+msgstr ""
+
+msgid "Your releases are only in .zip format [ +5 points of FAIL ]"
+msgstr ""
+
+msgid "Your releases are only in OSX .zip format [ +10 points of FAIL ]"
+msgstr ""
+
+msgid "Your releases are only in .rar format [ +20 points of FAIL ]"
+msgstr ""
+
+msgid "Your releases are only in .arj format [ +50 points of FAIL ]"
+msgstr ""
+
+msgid "Your releases are only in an encapsulation format that you invented. [ +100 points of FAIL ]"
+msgstr ""
+
+msgid "Your release does not unpack into a versioned top-level directory (e.g. glibc-2.4.2/ ) [ +10 points of FAIL ]"
+msgstr ""
+
+msgid "Your release does not unpack into a top-level directory (e.g. glibc/ ) [ +25 points of FAIL ]"
+msgstr ""
+
+msgid "Your release unpacks into an absurd number of directories (e.g. home/johndoe/glibc-svn/tarball/glibc/src/) [ +50 points of FAIL ]"
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "Your code is a fork of another project [ +10 points of FAIL ]"
+msgstr ""
+
+msgid "Your primary developers were not involved with the parent project [ +50 points of FAIL ]"
+msgstr ""
+
+msgid "Until open sourcing it, your code was proprietary for:"
+msgstr ""
+
+msgid "1-2 years [ +10 points of FAIL ]"
+msgstr ""
+
+msgid "3-5 years [ +20 points of FAIL ]"
+msgstr ""
+
+msgid "6-10 years [ +30 points of FAIL ]"
+msgstr ""
+
+msgid "10+ years [ +50 points of FAIL ]"
+msgstr ""
+
+msgid "Licensing"
+msgstr ""
+
+msgid "Your code does not have per-file licensing [ +10 points of FAIL ]"
+msgstr ""
+
+msgid "Your code contains inherent license incompatibilities [ +20 points of FAIL ]"
+msgstr ""
+
+msgid "Your code does not have any notice of licensing intent [ +30 points of FAIL ]"
+msgstr ""
+
+msgid "Your code doesn't include a copy of the license text [ +50 points of FAIL ]"
+msgstr ""
+
+msgid "Your code doesn't have a license [ +100 points of FAIL ]"
+msgstr ""
+
+msgid "Documentation"
+msgstr ""
+
+msgid "Your code doesn't have a changelog [+10 points of FAIL]"
+msgstr ""
+
+msgid "Your code doesn't have any documentation [ +20 points of FAIL ]"
+msgstr ""
+
+msgid "Your website doesn't have any documentation [ +30 points of FAIL ]"
+msgstr ""
+
+msgid "FAIL METER"
+msgstr ""
+
+msgid "0 points of FAIL: Perfect! All signs point to success!"
+msgstr ""
+
+msgid "5-25 points of FAIL: You're probably doing okay, but you could be better."
+msgstr ""
+
+msgid "30-60 points of FAIL: Babies cry when your code is downloaded"
+msgstr ""
+
+msgid "65-90 points of FAIL: Kittens die when your code is downloaded"
+msgstr ""
+
+msgid "95-130 points of FAIL: HONK HONK. THE FAILBOAT HAS ARRIVED!"
+msgstr ""
+
+msgid "135+ points of FAIL: So much fail, your code should have its own reality TV show."
+msgstr ""
+

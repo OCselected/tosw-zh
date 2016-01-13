@@ -1,0 +1,25 @@
+<?xml version='1.0'?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+<chapter id="The_Open_Source_Way-Community_Architecture_dashboard">
+  <title>Community Architecture dashboard</title>
+  <para>
+    Red Hat's Community Architecture team supports our executive
+    leadership team by providing a dashboard-view of community health
+    information. The communities on the dashboard list vary depending
+    on interest and need. For example, we are not actively watching
+    the health of our Linux kernel or GCC contributions. This is
+    because those communities are self-sustaining and extremely
+    healthy. Instead, the dashboard watches important, struggling, and
+    nascent community efforts that either the team or the corporate
+    leadership team are interested in tracking.  
+  </para> 
+  <para>
+    Current aspects of the dashboard:
+  </para>
+  <itemizedlist>
+    <listitem><para>Data gathered through <ulink
+    url="https://fedorahosted.org/ekg">EKG</ulink></para></listitem>
+  </itemizedlist>
+</chapter>

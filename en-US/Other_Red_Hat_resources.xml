@@ -1,0 +1,66 @@
+<?xml version='1.0'?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+
+<chapter id="The_Open_Source_Way-Other_Red_Hat_resources">
+  <title>Other Red Hat resources</title>
+  <para>
+    If you are or know of a resource at Red Hat who can speak, mentor,
+    or otherwise be a resource about community interaction, add them
+    here.
+  </para>
+  <para>
+    If that person's style and opinions are widely different from
+    those held in this book, they are not a good fit.
+  </para>
+  <itemizedlist>
+    <title>Resources</title>
+    <listitem>
+      <itemizedlist>
+	<title>Community Architecture team</title>
+	<listitem><para>Max Spevack &lt;<ulink
+	url="mailto:mspevack@redhat.com"/>&gt;</para></listitem>
+	<listitem><para>Greg Dekoenigsberg &lt;<ulink
+	url="mailto:gdk@redhat.com"/>&gt;</para></listitem>
+	<listitem><para>Karsten Wade
+	&lt;<ulink url="mailto:kwade@redhat.com"/>&gt;</para></listitem>
+	<listitem><para>Mel Chua
+	&lt;<ulink url="mailto:mel@redhat.com"/>&gt;</para></listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <itemizedlist>
+	<title>VP of Open Source Affairs</title>
+	<listitem>
+	  <para>
+	    Michael Tiemann &lt;<ulink
+	    url="mailto:tiemann@redhat.com"/>&gt; is a great resource
+	    for talking with C-level and any other level of customer
+	    or partner. He is interested in government and large
+	    enterprise discussions.
+	  </para>
+	</listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <itemizedlist>
+	<title>Fedora Project Leader</title>
+	<listitem>
+	  <para>
+	    Paul Frields &lt;<ulink url="mailto:pfrields@redhat.com"/>&gt;
+	  </para>
+	</listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <itemizedlist>
+	<title>Fedora Engineering Manager</title>
+	<listitem>
+	  <para>
+	    Tom 'spot' Callaway &lt;<ulink url="mailto:spot@redhat.com"/>&gt; 
+	  </para>
+	</listitem>
+      </itemizedlist>
+    </listitem>
+  </itemizedlist>
+</chapter>

@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 0\n"
+"POT-Creation-Date: 2016-01-14 00:04+0800\n"
+"PO-Revision-Date: 2016-01-14 00:04+0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: None\n"
+"Language: en-US \n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Publican v4.3.2\n"
+
+msgid "Books you should read"
+msgstr ""
+
+msgid "Suggested books of various community experts."
+msgstr ""
+
+msgid "Producing OSS"
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "Karl Fogel"
+msgstr ""
+
+msgid "Link"
+msgstr ""
+
+msgid "<ulink url=\"http://www.amazon.com/Producing-Open-Source-Software-Successful/dp/0596007590\">http://www.amazon.com/Producing-Open-Source-Software-Successful/dp/0596007590</ulink>"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "<ulink url=\"http://producingoss.com/\">http://producingoss.com/</ulink>"
+msgstr ""
+
+msgid "ISBN"
+msgstr ""
+
+msgid "ISBN-10: 0596007590 and ISBN-13: 978-0596007591"
+msgstr ""
+
+msgid "The Starfish and the Spider"
+msgstr ""
+
+msgid "Authors"
+msgstr ""
+
+msgid "Ori Brafman and Rod A. Beckstrom"
+msgstr ""
+
+msgid "<ulink url=\"http://www.amazon.com/Starfish-Spider-Unstoppable-Leaderless-Organizations/dp/1591841437\">http://www.amazon.com/Starfish-Spider-Unstoppable-Leaderless-Organizations/dp/1591841437</ulink>"
+msgstr ""
+
+msgid "<ulink url=\"http://www.starfishandspider.com/\">http://www.starfishandspider.com/</ulink>"
+msgstr ""
+
+msgid "ISBN-10: 1591841836 and ISBN-13: 978-1591841838"
+msgstr ""
+
+msgid "Groundswell"
+msgstr ""
+
+msgid "Josh Bernoff and Charlene Li"
+msgstr ""
+
+msgid "<ulink url=\"http://www.forrester.com/Groundswell\">http://www.forrester.com/Groundswell</ulink>"
+msgstr ""
+
+msgid "ISBN-10: 1422125009 and ISBN-13: 978-1422125007"
+msgstr ""
+
+msgid "Wikinomics"
+msgstr ""
+
+msgid "Don Tapscott and Anthony D. Williams"
+msgstr ""
+
+msgid "<ulink url=\"http://www.wikinomics.com/book\">http://www.wikinomics.com/book</ulink>"
+msgstr ""
+
+msgid "ISBN-10: 184354637X and ISBN-13: 978-1843546375"
+msgstr ""
+
+msgid "Cultivating Communities of Practice"
+msgstr ""
+
+msgid "Etienne Wenger, Richard A. McDermott, William M. Snyder"
+msgstr ""
+
+msgid "<ulink url=\"http://www.amazon.com/Cultivating-Communities-Practice-Managing-Knowledge/dp/B000SEOINI/ref=dp_kinw_strp_1\">http://www.amazon.com/Cultivating-Communities-Practice-Managing-Knowledge/dp/B000SEOINI/ref=dp_kinw_strp_1</ulink>"
+msgstr ""
+
+msgid "ASIN"
+msgstr ""
+
+msgid "ASIN: B000SEOINI"
+msgstr ""
+
